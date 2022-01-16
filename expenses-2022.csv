@@ -1,0 +1,28 @@
+﻿#,Date,Expense name/item,Category,Expense,Total
+1,01-01-2022,Paneer,Food, 100.00 , 100.00 
+2,02-01-2022,Curd,Food, 30.00 , 130.00 
+3,02-01-2022,Sewing machine repair,, 450.00 , 580.00 
+4,03-01-2022,Aaradhya tution fees,Academic, 600.00 ," 1,180.00 "
+5,03-01-2022,Aaradhya stationary,Academic, 50.00 ," 1,230.00 "
+6,03-01-2022,Sambhaji haircut,Grooming, 100.00 ," 1,330.00 "
+7,04-01-2022,Milk payment for Dec,Food," 1,500.00 "," 2,830.00 "
+8,04-01-2022,Samosa,Fast food, 50.00 ," 2,880.00 "
+9,04-01-2022,Tiffin bag for satyam,Academic, 50.00 ," 2,930.00 "
+10,05-01-2022,Petrol,Vehicle, 250.00 ," 3,180.00 "
+11,05-01-2022,Lunch office,Food, 180.00 ," 3,360.00 "
+12,07-01-2022,"Farsana, Bhawani",Fast food, 20.00 ," 3,380.00 "
+13,07-01-2022,Bike wash,Vehicle, 50.00 ," 3,430.00 "
+15,07-01-2022,Petrol,Vehicle, 250.00 ," 3,680.00 "
+16,08-01-2022,Lunch office,Food, 100.00 ," 3,780.00 "
+17,09-01-2022,Star bazaar,"Grocery, vegetables"," 1,126.00 "," 4,906.00 "
+18,09-01-2022,"milk, khava","Milk, food", 100.00 ," 5,006.00 "
+19,09-01-2022,Medicine,Medicine, 126.00 ," 5,132.00 "
+20,09-01-2022,Lollypop,Kids, 10.00 ," 5,142.00 "
+21,09-01-2022,Sugar cane juice,Food, 50.00 ," 5,192.00 "
+22,10-01-2022,Home loan,Home," 21,274.00 "," 26,466.00 "
+23,13-01-2022,Sankranti program,God, 500.00 ," 26,966.00 "
+24,14-01-2022,Sankranti program,God, 400.00 ," 27,366.00 "
+25,15-01-2022,Grocery star bazaar,"Grocery, vegetables", 550.00 ," 27,916.00 "
+26,15-01-2022,Jupiter maintenance,Vehicle, 450.00 ," 28,366.00 "
+27,15-01-2022,Sunday upwas,fruits, 30.00 ," 28,396.00 "
+28,15-01-2022,Milk,fruits, 30.00 ," 28,426.00 "
